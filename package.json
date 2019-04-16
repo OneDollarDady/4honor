@@ -6,10 +6,20 @@
 	"scripts": {
 		"start": "node index.js"
 	},
-	"scripts": {
-		"start": "node serveur.js"
-	},
-	"engines": {
-		"node": "8.11.3"
-	}
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OneDollarDady/4honor"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Tom",
+  "contributors": [
+    "RJ"
+  ],
+  "license": "MIT"
 }
