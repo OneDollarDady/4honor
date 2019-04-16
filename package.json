@@ -1,0 +1,15 @@
+{
+	"name": "node-js",
+	"version": "1.0.0",
+	"description": "dire à heroku la version de node, quel fichier lancer",
+	"main": "serveur.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"scripts": {
+		"start": "node serveur.js"
+	},
+	"engines": {
+		"node": "8.11.3"
+	}
+}
